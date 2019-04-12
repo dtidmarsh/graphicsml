@@ -14,7 +14,15 @@ Please feel free to submit a pull request with additional resources.
 ## Researchers
 
 * [Connelly Barnes](http://www.connellybarnes.com/work/)
+* [Angel Xuan Chang](https://angelxuanchang.github.io/)
+* [Angela Dai](http://graphics.stanford.edu/~adai/index.html)
 * [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/)
 * [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/)
+* [Anton Kaplanyan](http://kaplanyan.com/)
 * [Alex Keller](https://research.nvidia.com/person/alex-keller)
 * [Jaakko Lehtinen](https://users.aalto.fi/~lehtinj7/)
+* [Jan Novák](http://drz.disneyresearch.com/~jnovak/)
+* [Daniel Ritchie](https://dritchie.github.io/)
+* [Marco Salvi](https://research.nvidia.com/person/marco-salvi)
+* [Tomer Weiss](http://web.cs.ucla.edu/~tweiss/)
+* [Hongzhi Wu](http://www.cad.zju.edu.cn/home/hwu/)
