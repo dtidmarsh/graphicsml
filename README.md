@@ -1,5 +1,5 @@
 # graphicsml
-A collection of resources for computer graphics and machine learning.
+A collection of resources for the intersection of computer graphics and machine learning.
 
 Please feel free to submit a pull request with additional resources.
 
