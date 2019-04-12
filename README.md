@@ -15,5 +15,6 @@ Please feel free to submit a pull request with additional resources.
 
 * [Connelly Barnes](http://www.connellybarnes.com/work/)
 * [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/)
+* [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/)
 * [Alex Keller](https://research.nvidia.com/person/alex-keller)
 * [Jaakko Lehtinen](https://users.aalto.fi/~lehtinj7/)
