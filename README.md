@@ -29,7 +29,7 @@ Please feel free to submit a pull request with additional resources.
 * [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/)
 * [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html)
 * [Jan Novák](http://drz.disneyresearch.com/~jnovak/)
-* [Konstantinos Rematas] (http://www.krematas.com/)
+* [Konstantinos Rematas](http://www.krematas.com/)
 * [Daniel Ritchie](https://dritchie.github.io/)
 * [Tobias Ritschel](http://www.homepages.ucl.ac.uk/~ucactri/)
 * [Marco Salvi](https://research.nvidia.com/person/marco-salvi)
